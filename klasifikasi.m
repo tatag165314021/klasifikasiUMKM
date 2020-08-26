@@ -828,6 +828,7 @@ end
 %jdlamaberdiri
 tahunberdiri = 2018 - tahunberdiri;
 %tahunberdiri
+%coba
 if tahunberdiri >=1 && tahunberdiri <= 7.416667 tahunberdiri =1;
 elseif tahunberdiri > 7.416667 && tahunberdiri <= 13.83333 tahunberdiri =2;
 elseif tahunberdiri > 13.83333 && tahunberdiri <= 20.25  tahunberdiri =3;
